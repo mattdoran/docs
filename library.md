@@ -16,3 +16,14 @@ Be quick and reserve your brewery profile name today, this is unique and will be
 
 The first time you try to share a recipe, you will be asked to create a public profile where you upload a brewery avatar, and choose your brewey profile name and so on. You can also initialize the public profile creator from the account page. Only premium users can create a public profile.
 
+## Match copied recipes to your equipment
+
+When you copy someones recipe and want to brew it yourself here is a couple of suggestions:
+
+Open the recipe and click change equipment, select your own equipment profile, then it will ask you to scale when you click save. Then it will scale ingredients to match your efficiency and volumes. 
+
+* If the recipe has hopstand, double check that hopstand-temp is the same in your equipment profile before you click save. 
+* If you do water adjustments, open the water-calculator and re-do them to match your water. It could also be wise to open the yeat calculator and redo that to your liking and to get whole numbers.
+
+After doing this the recipe will match your equipment.
+
