@@ -12,8 +12,8 @@ Brewfather is brewings software made from the ground up to give you **the best**
 Brewfather includes
 
 * **Powerful, intuitive** and **easy to use** interface
-* **Multi device** support - one app everywhere - always!
-* **Offline support**, auto saving and automatic synchronisation
+* **Multi-device** support - one app everywhere - always!
+* **Offline support**, auto-saving and automatic synchronization
 * Fully-featured and easy to use **recipe** designer
 * Complete **batch** tracking - log every step of your brew
 * Recipe library with hundreds of **quality recipes** available for you
@@ -24,7 +24,8 @@ Brewfather includes
 * **Inventory** stock & **cost** tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF, DØDL\)
 * Supports custom style guidelines
-* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**SmartPID**](integrations/smartpid/)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
+* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
+* Full [**SmartPID**](integrations/smartpid/) ****two-way integration, for brew-day and fermentation control
 * **Print** your recipe or batch to PDF
 * Import and export **BeerXML**
 * Metric and US/Imperial units
