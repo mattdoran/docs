@@ -7,7 +7,7 @@ description: Fully-featured app for your brewing needs
 [Launch Brewfather APP](http://web.brewfather.app)  
 [Go to Brewfather Main Page](http://brewfather.app)
 
-Brewfather is brewings software made from the ground up to give you **the best** recipe design and brewing experience on both **desktop and mobile** devices. With a **modern design** that is easy to use. Get your recipes done in no time! With **automatic synchronisation** between your devices and **offline** support.
+Brewfather is brewings software made from the ground up to give you **the best** recipe design and brewing experience on both **desktop and mobile** devices. With a **modern design** that is easy to use. Get your recipes done in no time! With automatic **synchronization** between your devices and **offline** support.
 
 Brewfather includes
 
