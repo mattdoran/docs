@@ -16,6 +16,7 @@ Brewfather includes
 * **Offline support**, auto-saving and automatic synchronization
 * Fully-featured and easy to use **recipe** designer
 * Complete **batch** tracking - log every step of your brew
+* Fermentation **chart**
 * Recipe library with hundreds of **quality recipes** available for you
 * **Brew timer** with alarms and notifications for your brewday!
 * **Profiles** for your equipment, mash schedule, fermentation steps, and water
@@ -24,8 +25,6 @@ Brewfather includes
 * **Inventory** stock & **cost** tracking
 * Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF, DØDL\)
 * Supports custom style guidelines
-* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
-* Full [**SmartPID**](integrations/smartpid/) ****two-way integration, for brew-day and fermentation control
 * **Print** your recipe or batch to PDF
 * Import and export **BeerXML**
 * Metric and US/Imperial units
@@ -38,6 +37,11 @@ Brewfather includes
 * Strike temperature calculation
 * Proper calculation of hopstand bitterness
 * And **many more** tools and features to help your brewing!
+
+Integrations:
+
+* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
+* Full [**SmartPID**](integrations/smartpid/) ****two-way integration, for brew-day and fermentation control
 
 ![Multi-device support, use it on your desktop and mobile devices](.gitbook/assets/p4150129.jpg)
 
