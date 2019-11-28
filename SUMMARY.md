@@ -59,8 +59,8 @@
 * [Tips & Tricks](tips-and-tricks.md)
 * [Changelog](changelog.md)
 
-## Application <a id="app"></a>
+## Legal
 
-* [Privacy Policy](app/privacy-policy.md)
-* [License Agreement](app/eula.md)
+* [Privacy Policy](legal/privacy-policy.md)
+* [License Agreement](legal/eula.md)
 
