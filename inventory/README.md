@@ -12,5 +12,5 @@ If you accidentally delete an item you can add it back by either: 1. Add it back
 
 You substract from inventory when you plan a batch, and actively check each ingredient to remove them from inventory.
 
-![Items not in stock is marked with a red exclamation mark](../.gitbook/assets/image%20%2890%29.png)
+![Items not in stock is marked with a red exclamation mark](../.gitbook/assets/image%20%2895%29.png)
 

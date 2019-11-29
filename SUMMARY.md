@@ -2,6 +2,7 @@
 
 * [What is Brewfather?](README.md)
 * [Getting Started](getting-started/README.md)
+  * [Import Recipes](getting-started/import-recipes.md)
   * [Creating a new recipe](getting-started/creating-a-new-recipe.md)
   * [Your first batch](getting-started/your-first-batch.md)
   * [Setting up your equipment profile](getting-started/setting-up-your-equipment-profile.md)

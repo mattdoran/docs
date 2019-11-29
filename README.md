@@ -107,5 +107,5 @@ Brewfather**©** copyright Warpkode AS. All rights reserved.
 The documentation is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2885%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2890%29.png)
 

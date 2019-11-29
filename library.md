@@ -1,6 +1,6 @@
 # Library
 
-![](.gitbook/assets/image%20%2860%29.png)
+![](.gitbook/assets/image%20%2865%29.png)
 
 In the public recipe  you can search for recipes shared by other Brewfather users. Located as a new page called "Library" in the menu.
 

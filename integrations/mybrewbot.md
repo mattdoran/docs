@@ -16,15 +16,15 @@ Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/maleutstyr/mybrewbot-f
 
 Using MyBrewbot with Brewfather is very simple. Enable it in your Settings and copy the Logging ID into your MyBrewbot settings.
 
-![1. Enable MyBrewbot in Brewfather](../.gitbook/assets/image%20%2826%29.png)
+![1. Enable MyBrewbot in Brewfather](../.gitbook/assets/image%20%2827%29.png)
 
-![2. Copy the Logging ID into the Brewfather Logging ID field in the MyBrewbot web config](../.gitbook/assets/image%20%2814%29.png)
+![2. Copy the Logging ID into the Brewfather Logging ID field in the MyBrewbot web config](../.gitbook/assets/image%20%2815%29.png)
 
 You will find the IP for you MyBrewbot in the bottom of the settings in the MyBrewbot app, open this IP in your browser when you are in the same network as the device.
 
 Alternative easier setup coming soon:
 
-![3. Alternative setup in the new MyBrewbot app \(due for release soon\)](../.gitbook/assets/image%20%2836%29.png)
+![3. Alternative setup in the new MyBrewbot app \(due for release soon\)](../.gitbook/assets/image%20%2837%29.png)
 
 Your MyBrewbot should then log every 15 minutes.
 
@@ -34,5 +34,5 @@ After the MyBrewbot has done its first logging to Brewfather, it will appear in 
 
 ## Result
 
-![MyBrewBot with Tilt attached](../.gitbook/assets/image%20%282%29.png)
+![MyBrewBot with Tilt attached](../.gitbook/assets/image%20%283%29.png)
 

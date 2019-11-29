@@ -6,11 +6,11 @@ Get it directly from Plaato [here](https://www.plaato.io/).
 
 ### Enable Plaato Airlock in Settings
 
-![Enable Plaato Airlock in the Settings, copy the Logging URL.](../../.gitbook/assets/image%20%2886%29.png)
+![Enable Plaato Airlock in the Settings, copy the Logging URL.](../../.gitbook/assets/image%20%2891%29.png)
 
 ### **Plaato App Webhook Setup**
 
-![Paste the Logging URL from Brewfather](../../.gitbook/assets/image%20%2837%29.png)
+![Paste the Logging URL from Brewfather](../../.gitbook/assets/image%20%2838%29.png)
 
 1. **Enable** Plaato Airlock in the Brewfather Settings
 2. **Copy** the Logging URL.
@@ -24,7 +24,7 @@ Get it directly from Plaato [here](https://www.plaato.io/).
 
 ### Result
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ### Logging with multiple Plaato Airlocks
 

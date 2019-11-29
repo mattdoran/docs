@@ -65,17 +65,17 @@ There is a know issue upgrading firmware on macOS, try a Windows computer if you
 
 ## Enable SmartPID integration
 
-![Enable SmartPID in the Settings page in the Power-ups Section](../../.gitbook/assets/image%20%2857%29.png)
+![Enable SmartPID in the Settings page in the Power-ups Section](../../.gitbook/assets/image%20%2862%29.png)
 
 ## Configure SmartPID
 
-![Open the Devices page in the new menu option that appears](../../.gitbook/assets/image%20%2874%29.png)
+![Open the Devices page in the new menu option that appears](../../.gitbook/assets/image%20%2879%29.png)
 
 ## Register/Login to SmartPID account
 
 In the devices page there will now be a **Configure** button next to the SmartPID section. Click it to set up SmartPID.
 
-![Enter your e-mail and password, then login or register](../../.gitbook/assets/image%20%2847%29.png)
+![Enter your e-mail and password, then login or register](../../.gitbook/assets/image%20%2850%29.png)
 
 ### Register new SmartPID account \(new SmartPID users\)
 
@@ -105,7 +105,7 @@ SmartPID can be set up to send the status every X seconds. For best response tim
 
 
 
-![Configure SmartPID device](../../.gitbook/assets/image%20%2843%29.png)
+![Configure SmartPID device](../../.gitbook/assets/image%20%2844%29.png)
 
 1. From the SmartPID configuration window click **Add device**
 2. Insert a name for your smartPID controller
@@ -117,7 +117,7 @@ SmartPID can be set up to send the status every X seconds. For best response tim
 
 ## Mode: Homebrewing
 
-![Homebrewing Panel](../../.gitbook/assets/image%20%2832%29.png)
+![Homebrewing Panel](../../.gitbook/assets/image%20%2833%29.png)
 
 ### Recipe upload and process start
 
@@ -138,25 +138,25 @@ SmartPID is limited to **max 10 boil addition** **alarms**.
 Recipe is saved always in **position 1** in the controller and will override any recipe entered manually in that position
 {% endhint %}
 
-![Start a recipe from the batch page](../../.gitbook/assets/image%20%2888%29.png)
+![Start a recipe from the batch page](../../.gitbook/assets/image%20%2893%29.png)
 
-![Start Homebrewing SmartPID](../../.gitbook/assets/image%20%2823%29.png)
+![Start Homebrewing SmartPID](../../.gitbook/assets/image%20%2824%29.png)
 
 #### Optional Mash Steps Template
 
 If you want one to one mapping of the mahing steps to the recipe format of the SmartPID you can utilize the **Mash steps template** mashing profile. Brewfather will also intelligently try to **map any mash profile** to the fixed SmartPID scheme so this step is optional. 
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 1. Select profile in recipe
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 2. Alter the profile by adjusting time and temperature on the steps with time greater than 0. Leave the rest as is.
 
 ## Mode: Thermostat
 
-![Thermostat Panel](../../.gitbook/assets/image%20%2844%29.png)
+![Thermostat Panel](../../.gitbook/assets/image%20%2845%29.png)
 
 ### Start fermentation profile from recipe
 
@@ -177,7 +177,7 @@ Optionally you can also start a fermentation profile or standard/manual mode fro
 Profile is saved always in **position 1** in the controller and will override any profile entered manually in that position
 {% endhint %}
 
-![Start fermentation profile from Fermentation Controller in fermentation tab](../../.gitbook/assets/image%20%2889%29.png)
+![Start fermentation profile from Fermentation Controller in fermentation tab](../../.gitbook/assets/image%20%2894%29.png)
 
-![When starting thermostat from the devices page you can select standard or advanced mode](../../.gitbook/assets/image%20%2867%29.png)
+![When starting thermostat from the devices page you can select standard or advanced mode](../../.gitbook/assets/image%20%2872%29.png)
 

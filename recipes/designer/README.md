@@ -1,6 +1,6 @@
 # Designer
 
-![Easy layout for creating your recipe](../../.gitbook/assets/image%20%2835%29.png)
+![Easy layout for creating your recipe](../../.gitbook/assets/image%20%2836%29.png)
 
 ###  Scale recipe
 

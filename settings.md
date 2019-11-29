@@ -1,6 +1,6 @@
 # Settings
 
-![Overview of all the settings available](.gitbook/assets/image%20%288%29.png)
+![Overview of all the settings available](.gitbook/assets/image%20%289%29.png)
 
 In the settings you can...
 
@@ -15,7 +15,7 @@ In the settings you can...
 
 ### Application
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 #### Reload Application
 
