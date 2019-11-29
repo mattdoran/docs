@@ -1,5 +1,7 @@
 # Getting Started
 
+{% page-ref page="import-recipes.md" %}
+
 {% page-ref page="introduction-videos.md" %}
 
 {% page-ref page="setting-up-your-equipment-profile.md" %}
