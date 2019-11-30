@@ -20,11 +20,13 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [Google Analytics](https://policies.google.com/technologies/partner-sites)
-* [Firebase Analytics](https://firebase.google.com/policies/analytics)
-* [Facebook](https://www.facebook.com/about/privacy)
+* [Google Play Services](https://www.google.com/policies/privacy/) \(third party login method\)
+* [Google Analytics](https://policies.google.com/technologies/partner-sites) \(user traffic measurements\)
+* [Firebase Analytics](https://firebase.google.com/policies/analytics) \(app performance\)
+* [Facebook](https://www.facebook.com/about/privacy) \(third party login method\)
 * [Stripe](https://stripe.com/privacy) \(web payment provider\)
+* [Rewardful](https://www.getrewardful.com/privacy) \(affiliate tracking\)
+* [ProfitWell](https://www.profitwell.com/privacy-policy) \(retention analytics\)
 
 **Log Data**
 
