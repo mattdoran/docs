@@ -21,8 +21,10 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
+* [Google Analytics](https://policies.google.com/technologies/partner-sites)
 * [Firebase Analytics](https://firebase.google.com/policies/analytics)
 * [Facebook](https://www.facebook.com/about/privacy)
+* [Stripe](https://stripe.com/privacy) \(web payment provider\)
 
 **Log Data**
 
