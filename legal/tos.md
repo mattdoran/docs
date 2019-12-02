@@ -41,7 +41,7 @@ Your payment will be charged to your iTunes Account once you confirm your purcha
 
 Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to end of the current period.
 
-You can manage or turn off auto-renw in your Apple ID account Settings any time after purchase.
+You can manage or turn off auto-renew in your Apple ID account Settings any time after purchase.
 
 **Automatic Renewal**
 

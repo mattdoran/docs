@@ -63,5 +63,5 @@
 ## Legal
 
 * [Privacy Policy](legal/privacy-policy.md)
-* [Terms of Service](legal/eula.md)
+* [Terms of Service](legal/tos.md)
 
