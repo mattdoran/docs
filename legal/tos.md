@@ -2,11 +2,11 @@
 description: End User License Agreement Brewfather App & Site
 ---
 
-# License Agreement
+# Terms of Service
 
 **Brewfather APP**
 
-These terms and conditions outline the rules and regulations for the use of Brewfather. 
+These terms of service outline the rules and regulations for the use of Brewfather. 
 
 **General Terms**
 
@@ -34,6 +34,14 @@ In regrads to the SmartPID integration, the SmartPID specific username \(email\)
 Payment and Renewal**
 
 Optional paid services are available in Brewfather \(ie, Premium Subscription\). By subscribing you agree to pay Brewfather the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for a Subscription and will cover the use of that service for a monthly or annual subscription period as indicated. Subscription fees are refundable until two weeks after the first original purchase date. 
+
+**Subscription via Apple/iTunes \(only\)**
+
+Your payment will be charged to your iTunes Account once you confirm your purchase.
+
+Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to end of the current period.
+
+You can manage or turn off auto-renw in your Apple ID account Settings any time after purchase.
 
 **Automatic Renewal**
 
