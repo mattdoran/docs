@@ -73,7 +73,7 @@ To request removal of or access to your personal data contact hello@brewfather.a
 Data Collection:  
 Gathered data: With the purpose of identifying you, the users e-mail \(if using Social Login: also name and photo\) is stored when signing in. Name and photo is stored to give you a better user experience.  
   
-Payment related data: All your payments are handeled securely by Stripe. Brewfather partners with Stripe to provide secure invoicing and payments processing. Brewfather only recieves the last 4 digits, expiration date, and card type used in your credit card with the purpose to show the user relevant data for the users payment method.  
+Payment related data: All your payments are handled securely by Stripe. Brewfather partners with Stripe to provide secure invoicing and payments processing. Brewfather only recieves the last 4 digits, expiration date, and card type used in your credit card with the purpose to show the user relevant data for the users payment method.  
   
 User generated content: Your recipes, batches, readings/logs and user settings are stored on Brewfather with the purpose of serving you with your data from any device and providing the best user experience. User explicit data sharing: Brewfather allows optional sharing of your user generated content on Brewfather with the purpose of sharing this with other users. When you activate sharing of you data or recipe you allow that data to be publicly viewable.
 
