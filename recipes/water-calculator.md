@@ -14,7 +14,7 @@ Normally you do not want to start adjusting your water until the rest of your re
 
 This will open the water calculator.
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 At the top you will see your current mash water room temperature pH. **All pH values should be measured when the wort is cooled down to room temperature**.
 
@@ -26,13 +26,13 @@ There is a cog icon which allows you to change some settings regarding the water
 
 ## Grains
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 The fist section of the water calculator shows your grain bill, and the calculator automatically assigns a grain type to it. Verify that the grain and **grain color** matches the grains you will be using, and that the **grain type** is correct.
 
 If you use any **crystal**, **roasted** or **acidulated malt**, make sure they are assigned the right category as they have a big impact on the estimated pH. Adjust if needed.
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 You can also ignore the grain, making it not count towards the pH calculation. Useful if you are just steeping that specific grain.
 
@@ -40,19 +40,19 @@ You can also ignore the grain, making it not count towards the pH calculation. U
 
 Next section shows your water volumes, pulled from your recipe and equipment profile. Make sure they are correct. Adjust levels if needed. For example you might want to add more sparge water volume if you have some dead-space in the sparge water heater.
 
-![Water Volumes](../.gitbook/assets/image%20%2860%29.png)
+![Water Volumes](../.gitbook/assets/image%20%2861%29.png)
 
 ## Water Source
 
 Your default water source profile is preselected and should normally not need any alterations if you have already set up your water profile. If you have multiple source water profiles, you can click the change button as needed to choose another profile as your source.
 
-![Source Water Profile](../.gitbook/assets/image%20%2841%29.png)
+![Source Water Profile](../.gitbook/assets/image%20%2842%29.png)
 
 ## Target Profile \(optional\)
 
 If you want to target a specific water profile for your water adjustment you can optionally select or create a target profile. The target profile is used for when you want to use the auto adjust feature to match your source water against this target. The target water profile is also what shows as a diff under your total water profile when adjusting.
 
-![Target Water Profile](../.gitbook/assets/image%20%2840%29.png)
+![Target Water Profile](../.gitbook/assets/image%20%2841%29.png)
 
 ## Style Comparsion
 
@@ -116,7 +116,7 @@ The data entered in the water calculator is saved to your recipe, so you can eas
 
 To automatically save your ingredients to the Misc section of your recipe. Click the green **Save adjustments to recipe** button at the bottom.
 
-![BOOM. Adjustments saved to your recipe. Ready to brew!](../.gitbook/assets/image%20%2887%29.png)
+![BOOM. Adjustments saved to your recipe. Ready to brew!](../.gitbook/assets/image%20%2888%29.png)
 
 ## Water Settings
 

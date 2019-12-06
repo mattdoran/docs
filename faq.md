@@ -33,7 +33,7 @@ Basically you export a BeerXML on your phone and open it directly in the GF Conn
 On your batch click the **menu** button in the lower right, click **export**, select **BeerXML**, the file will show and you should get an option to open the file in your GF Connect app.  
 
 
-![iPhone example. Slightly different approach in Android.](.gitbook/assets/image%20%2881%29.png)
+![iPhone example. Slightly different approach in Android.](.gitbook/assets/image%20%2882%29.png)
 
 Then you just start brewing!
 
@@ -57,7 +57,7 @@ See the Brewpiless page for setup instructions
 
 ## Android or iOS app?
 
-Brewfather is a progressive web application that is ment to be used from the browser or as a Home-Screen app! Therefore it is not available in the app/play-store. Easily add it to your home screen from your mobile device without having to install anything.  
-  
-Brewfather still has full offline support and is cached on your device/browser the first time you load it.
+Brewfather is available as a progressive web application that can be used on any device \(Easily add it to your home screen from your mobile device without having to install anything\). Brewfather has full offline support and is cached on your device/browser the first time you load it.
+
+Brewfather is also available as an [iOS app here](https://apps.apple.com/us/app/brewfather/id1488585822). This is the recommended way to use the app on an iPhone or iPad.
 

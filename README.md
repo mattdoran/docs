@@ -53,9 +53,13 @@ Brewfather believes designing your recipes and tracking your batches should be e
 Brewfather strives to cover all your brewing needs in one place, new features are added continuously, [get in touch](https://gitlab.com/warpkode/public/brewfather/boards) if you miss any features or find any issues!
 {% endhint %}
 
-## Home-Screen App Support <a id="home-screen-app-support"></a>
+## Web-app and iOS app‌ <a id="android-or-ios-app"></a>
 
-Brewfather can be added to your homescreen on Android and iOS devices to give you the best user experience.
+Brewfather is available as a progressive web application that can be used on any device \(Easily add it to your home screen from your mobile device without having to install anything\). Brewfather has full offline support and is cached on your device/browser the first time you load it.‌
+
+Brewfather is also available as an [iOS app here](https://apps.apple.com/us/app/brewfather/id1488585822). This is the recommended way to use the app on an iPhone or iPad.
+
+Dedicated android application might come later, but for now simply open it in Chrome on Android and add it to your home-screen. Android has great web-app support.
 
 ## Free to use as long as you want! <a id="pricing"></a>
 
@@ -107,5 +111,5 @@ Brewfather**©** copyright Warpkode AS. All rights reserved.
 The documentation is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2890%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2891%29.png)
 

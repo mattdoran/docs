@@ -8,7 +8,7 @@ The devices page lists all your devices and the latest data recieved from them. 
 
 You can also configure and remove devices.
 
-![Total control over all your integrated devices](.gitbook/assets/image%20%2882%29.png)
+![Total control over all your integrated devices](.gitbook/assets/image%20%2883%29.png)
 
 ### Settings
 

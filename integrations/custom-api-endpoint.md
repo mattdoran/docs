@@ -2,7 +2,7 @@
 
 Define a custom **https** endpoint to recieve batch JSON file when clicking the send button in the batch \(only visible when this is enabled\).
 
-![Send JSON button appears in batch when this is activated](../.gitbook/assets/image%20%2878%29.png)
+![Send JSON button appears in batch when this is activated](../.gitbook/assets/image%20%2879%29.png)
 
 ### Endpoint
 

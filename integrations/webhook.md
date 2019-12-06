@@ -4,7 +4,7 @@ For devices that support webhook you can enable it by clicking "\(configure webh
 
 ![Click &quot;\(configure webhook\)&quot;](../.gitbook/assets/image%20%2823%29.png)
 
-![Enable, enter url, and select format](../.gitbook/assets/image%20%2839%29.png)
+![Enable, enter url, and select format](../.gitbook/assets/image%20%2840%29.png)
 
 Format details:
 
