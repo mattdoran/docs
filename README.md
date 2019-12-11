@@ -9,6 +9,9 @@ description: Fully-featured app for your brewing needs
 
 Brewfather is brewings software made from the ground up to give you **the best** recipe design and brewing experience on both **desktop and mobile** devices. With a **modern design** that is easy to use. Get your recipes done in no time! With automatic **synchronization** between all your devices and **offline** support.
 
+Available as a web app that can be used on **any device**. Add it to your home screen or desktop without having to install anything. **Android has full support for web apps**, ****simply open in Chrome and add it to your home screen. For Apple/iOS you can find Brewfather in the app store.  
+[![](https://gallery.mailchimp.com/32f226b8ca31bef549e6ffc7a/images/5d3e3edb-3423-490d-b6f9-49ea14762449.png)](https://apps.apple.com/us/app/brewfather/id1488585822)
+
 Brewfather includes
 
 * **Powerful, intuitive** and **easy to use** interface
@@ -111,5 +114,5 @@ Brewfather**©** copyright Warpkode AS. All rights reserved.
 The documentation is currently in the process of being written.
 {% endhint %}
 
-![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2891%29.png)
+![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2893%29.png)
 

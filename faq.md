@@ -33,7 +33,7 @@ Basically you export a BeerXML on your phone and open it directly in the GF Conn
 On your batch click the **menu** button in the lower right, click **export**, select **BeerXML**, the file will show and you should get an option to open the file in your GF Connect app.  
 
 
-![iPhone example. Slightly different approach in Android.](.gitbook/assets/image%20%2882%29.png)
+![iPhone example. Slightly different approach in Android.](.gitbook/assets/image%20%2884%29.png)
 
 Then you just start brewing!
 

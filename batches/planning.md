@@ -1,6 +1,6 @@
 # Planning
 
-![Planning phase of you batch](../.gitbook/assets/image%20%28104%29.png)
+![Planning phase of you batch](../.gitbook/assets/image%20%28106%29.png)
 
 In the planning tab of your batch you can name your batch and enter the batch number, select your planned brew-date check your inventory, edit the recipe.
 

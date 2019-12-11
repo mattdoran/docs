@@ -6,7 +6,7 @@ Get it directly from Plaato [here](https://www.plaato.io/).
 
 ### Enable Plaato Airlock in Settings
 
-![Enable Plaato Airlock in the Settings, copy the Logging URL.](../../.gitbook/assets/image%20%2892%29.png)
+![Enable Plaato Airlock in the Settings, copy the Logging URL.](../../.gitbook/assets/image%20%2894%29.png)
 
 ### **Plaato App Webhook Setup**
 
@@ -24,7 +24,7 @@ Get it directly from Plaato [here](https://www.plaato.io/).
 
 ### Result
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 ### Logging with multiple Plaato Airlocks
 

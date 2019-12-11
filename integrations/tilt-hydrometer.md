@@ -13,7 +13,7 @@ More details below. There is also a [video guide in Norwegian](https://youtu.be/
 Then go into the Fermentation tab of your batch and click **Devices.**  
 After your Tilt has done it's first logging to Brewfather it will appear in the device list.
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for your Tilt to log the next time.
 
@@ -21,7 +21,7 @@ Click the **ATTACH** button to make it log to this batch. Wait 15-30 minutes for
 
 ### Tilt 2 Phone App Setup
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 1. Enable "use custom cloud url" in the Settings
 2. Copy cloud url from settings in Brewfather
@@ -73,25 +73,25 @@ _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._
 
 ### International
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 Buy directly from Tilt: [https://tilthydrometer.com/](https://tilthydrometer.com/)
 
 ### Norwegian dealers
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 Buy from [Brewshop.no](https://brewshop.no/produkt/utstyr/gjaering/utstyr-til-gjaering/tilt-hydrometer-termometer-ny-versjon)
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 Buy from [Petit-agentur.no](https://petit-agentur.no/search_result?keywords=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 Buy from [Vestbrygg.no](https://www.vestbrygg.no/home/SearchForm?q=tilt+hydrometer)
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 Buy from [Strømmen Hjemmebrygg](https://homebrew.no/)
 

@@ -2,7 +2,7 @@
 
 Integrate your own logging device with a custom **HTTP POST** to the **URL** you are given in the settings.
 
-![Enable custom stream in the settings page](../.gitbook/assets/image%20%2865%29.png)
+![Enable custom stream in the settings page](../.gitbook/assets/image%20%2867%29.png)
 
 Use the following **JSON** format in the body of the **POST:**
 
