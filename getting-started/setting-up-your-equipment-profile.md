@@ -108,7 +108,7 @@ Enter your desired sparge temperature.
 ## Basic steps to set up an equipment profile for a single vessel system
 
 1. **Mash-tun deadspace**: Add water until you reach the bottom of the malt-pipe, note exactly how much water you need to add.
-2. With the malt-pipe inserted, add water until it reaches 2-3 cm from the top of the malt pipe, note exactly how much water. This will be the **max mash volume** \(including **grain**\).
+2. With the malt-pipe inserted, add water until it reaches 2-3 cm from the top of the malt pipe, note exactly how much water. This will be the **max mash volume** \(including **grain**\). If the brewer has overflow function, stop right before it overflows instead.
 3. **Boiloff** test, adjust the power % \(if possible\) to get a reasonable boil, ideally wort, but water will work also, note how much water has boiled off per hour. Remember to measure the volumes at the same temperatue, either both hot or cold.
 4. Measure how much water is left in the system after pumping/draining all the water/wort out \(not center/dump drain\), estimate of **trub loss**. Dip tube should be adjusted down \(if applicable\).
 5. To figure out a reasonable **water/grain ratio** ideally, one should do multiple mashes and get experience, but one alternative is to do a brew with about 1.060 OG and note how much water added to get a good mash thickness. Substract the Mash-tun deadspace, then divide amount of water on amount of grains to get the water/grain ratio.
