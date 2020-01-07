@@ -11,6 +11,7 @@
   * [Designer](recipes/designer/README.md)
     * [Relative Bitterness Ratio](recipes/designer/relative-bitterness-ratio.md)
   * [Water Calculator](recipes/water-calculator.md)
+  * [Calculations](recipes/calculations.md)
 * [Batches](batches/README.md)
   * [Planning](batches/planning.md)
   * [Brewing](batches/brewing.md)
