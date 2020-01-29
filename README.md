@@ -43,7 +43,7 @@ Brewfather includes
 
 Integrations:
 
-* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**Plaato Airlock**](integrations/plaato/airlock.md), Plaato Keg \(soon\) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
+* Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
 * Full [**SmartPID**](integrations/smartpid/) ****two-way integration, for brew-day and fermentation control
 
 ![Multi-device support, use it on your desktop and mobile devices](.gitbook/assets/p4150129.jpg)
