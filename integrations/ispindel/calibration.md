@@ -8,7 +8,9 @@ Configure the iSpindel to report every 60 seconds in to Brewfather, from the dev
   
 After reading out all angles in the different solutions and recording them. Fill in the values in the calibration spreadsheet for the iSpindel project and it will calculate the formula based on your unit.   
   
-Copy the formula into your Polynominal under Configuration and start reading out the values in the different solutions again. In Ubidots Gravity is given in Plato so with the above SG solutions you should see values close to 0, 2.5, 5, 7.5, 10 and 12.5 matching the correct SG.
+Copy the formula into your Polynominal under Configuration and start reading out the values in the different solutions again. **Make sure to use the formula that reports in Plato**. Brewfather then converts it into the unit you have choosen in the settings. If the gravity is displaying 1.004 in Brewfather you are using the wrong formula.
+
+If you are using Plato in Brewfather for the SG solutions above you should see values close to 0, 2.5, 5, 7.5, 10 and 12.5 Plato matching the correct SG.
 
 #### Resources
 

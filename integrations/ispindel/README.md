@@ -15,7 +15,7 @@ After the iSpindel has done its first logging to Brewfather, it will appear in t
 **Never log more than once every 15 minutes**, request logged more often than that will be ignored. It is **very important that your update intervall is 900 or higher**, otherwise your logging will be ignored.
 
 {% hint style="info" %}
-Make sure your iSpindel reports gravity in Plato \(it will be converted to SG\) and temperature in Celcius. Add **\[SG\]** to the name of your iSpindel if you use SG based formula.
+Make sure your iSpindel reports gravity in Plato \(it will be converted to SG\) and temperature in Celcius. Add **\[SG\]** to the name of your iSpindel if you use SG based formula. If the gravity is displaying 1.004 in Brewfather you are using the wrong formula, use the fomula that reports in Plato or use the tag above.
 {% endhint %}
 
 ### Multiple devices
